@@ -21,3 +21,15 @@
 **Decimal:**
 * Input: ```_printf("%d\n", 542);```
 * Output:  ```542```
+
+
+## Project Requirements
+* All files will be compiled on Ubuntu 14.04 LTS
+* Programs and functions will be compiled with gcc 4.8.4 using flags -Wall -Werror -Wextra and -pedantic
+* Code must follow the [Betty](https://github.com/holbertonschool/Betty/wiki) style
+* Global variables are not allowed
+
+## Contributors
+[John Aina](https://github.com/johnaina)
+
+[Abdulrahman Oyetade](https://github.com/ola-mide)
